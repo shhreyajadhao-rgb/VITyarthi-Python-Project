@@ -259,7 +259,3 @@ Possible future improvements include:
 - Multiple payment methods
 - Database integration
 - Online deployment
-
-## Author
-
-Developed as part of the VITyarthi project evaluation.
