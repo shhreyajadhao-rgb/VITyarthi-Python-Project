@@ -1,0 +1,84 @@
+{
+    "fruits": {
+        "apple": {
+            "price": 10,
+            "qty": 34
+        },
+        "banana": {
+            "price": 5,
+            "qty": 100
+        },
+        "orange": {
+            "price": 30.0,
+            "qty": 20
+        },
+        "strawberry": {
+            "price": 20.0,
+            "qty": 30
+        },
+        "grapes": {
+            "price": 30.0,
+            "qty": 40
+        },
+        "mango": {
+            "price": 25.0,
+            "qty": 20
+        },
+        "watermelon": {
+            "price": 80.0,
+            "qty": 10
+        }
+    },
+    "vegetables": {
+        "carrot": {
+            "price": 8,
+            "qty": 58
+        },
+        "spinach": {
+            "price": 12.0,
+            "qty": 39
+        },
+        "tomato": {
+            "price": 15.0,
+            "qty": 70
+        },
+        "potato": {
+            "price": 20.0,
+            "qty": 60
+        },
+        "onion": {
+            "price": 18.0,
+            "qty": 70
+        },
+        "cabbage": {
+            "price": 22.0,
+            "qty": 50
+        }
+    },
+    "dairy": {
+        "milk": {
+            "price": 25,
+            "qty": 30
+        },
+        "cheese": {
+            "price": 50.0,
+            "qty": 20
+        },
+        "yogurt": {
+            "price": 30.0,
+            "qty": 23
+        },
+        "butter": {
+            "price": 40.0,
+            "qty": 15
+        },
+        "cream": {
+            "price": 35.0,
+            "qty": 10
+        },
+        "ice cream": {
+            "price": 60.0,
+            "qty": 3
+        }
+    }
+}
